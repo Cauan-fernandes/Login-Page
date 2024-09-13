@@ -5,7 +5,6 @@ Este repositório contém uma página de login simples desenvolvida com HTML e e
 ## 🚀 Funcionalidades
 
 - Formulário de Login: Campos para nome de usuário e senha.
-- Design Responsivo: Layout ajustável para diferentes tamanhos de tela.
 - Estilização Simples: Uso de CSS para criar um design limpo e funcional.
 
 ## 🔧 Tecnologias Usadas
